@@ -13,6 +13,8 @@
 		191C87192BE162890036E7F7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 191C87182BE162890036E7F7 /* Preview Assets.xcassets */; };
 		191C87202BE1680B0036E7F7 /* CalendarBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C871F2BE1680B0036E7F7 /* CalendarBasics.swift */; };
 		191C87252BE183FD0036E7F7 /* CalendarComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C87242BE183FD0036E7F7 /* CalendarComponents.swift */; };
+		9F1271D32BE166A900556F48 /* MonthlyCalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1271D22BE166A900556F48 /* MonthlyCalendarView.swift */; };
+		9F1271D52BE16FE400556F48 /* DateFormater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1271D42BE16FE400556F48 /* DateFormater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		191C871F2BE1680B0036E7F7 /* CalendarBasics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarBasics.swift; sourceTree = "<group>"; };
 		191C87232BE16A400036E7F7 /* Learned.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Learned.md; sourceTree = "<group>"; };
 		191C87242BE183FD0036E7F7 /* CalendarComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarComponents.swift; sourceTree = "<group>"; };
+		9F1271D22BE166A900556F48 /* MonthlyCalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonthlyCalendarView.swift; sourceTree = "<group>"; };
+		9F1271D42BE16FE400556F48 /* DateFormater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				191C871F2BE1680B0036E7F7 /* CalendarBasics.swift */,
 				191C87242BE183FD0036E7F7 /* CalendarComponents.swift */,
 				191C87232BE16A400036E7F7 /* Learned.md */,
+				9F1271D22BE166A900556F48 /* MonthlyCalendarView.swift */,
+				9F1271D42BE16FE400556F48 /* DateFormater.swift */,
 				191C87152BE162890036E7F7 /* Assets.xcassets */,
 				191C87172BE162890036E7F7 /* Preview Content */,
 			);
@@ -149,6 +155,8 @@
 				191C87202BE1680B0036E7F7 /* CalendarBasics.swift in Sources */,
 				191C87122BE162870036E7F7 /* CustomCalendarApp.swift in Sources */,
 				191C87252BE183FD0036E7F7 /* CalendarComponents.swift in Sources */,
+				9F1271D32BE166A900556F48 /* MonthlyCalendarView.swift in Sources */,
+				9F1271D52BE16FE400556F48 /* DateFormater.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
