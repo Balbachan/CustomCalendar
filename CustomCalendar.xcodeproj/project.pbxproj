@@ -11,6 +11,8 @@
 		191C87142BE162870036E7F7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C87132BE162870036E7F7 /* ContentView.swift */; };
 		191C87162BE162890036E7F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 191C87152BE162890036E7F7 /* Assets.xcassets */; };
 		191C87192BE162890036E7F7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 191C87182BE162890036E7F7 /* Preview Assets.xcassets */; };
+		191C87202BE1680B0036E7F7 /* CalendarBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C871F2BE1680B0036E7F7 /* CalendarBasics.swift */; };
+		191C87252BE183FD0036E7F7 /* CalendarComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C87242BE183FD0036E7F7 /* CalendarComponents.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,9 @@
 		191C87132BE162870036E7F7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		191C87152BE162890036E7F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		191C87182BE162890036E7F7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		191C871F2BE1680B0036E7F7 /* CalendarBasics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarBasics.swift; sourceTree = "<group>"; };
+		191C87232BE16A400036E7F7 /* Learned.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Learned.md; sourceTree = "<group>"; };
+		191C87242BE183FD0036E7F7 /* CalendarComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarComponents.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +58,9 @@
 			children = (
 				191C87112BE162870036E7F7 /* CustomCalendarApp.swift */,
 				191C87132BE162870036E7F7 /* ContentView.swift */,
+				191C871F2BE1680B0036E7F7 /* CalendarBasics.swift */,
+				191C87242BE183FD0036E7F7 /* CalendarComponents.swift */,
+				191C87232BE16A400036E7F7 /* Learned.md */,
 				191C87152BE162890036E7F7 /* Assets.xcassets */,
 				191C87172BE162890036E7F7 /* Preview Content */,
 			);
@@ -138,7 +146,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				191C87142BE162870036E7F7 /* ContentView.swift in Sources */,
+				191C87202BE1680B0036E7F7 /* CalendarBasics.swift in Sources */,
 				191C87122BE162870036E7F7 /* CustomCalendarApp.swift in Sources */,
+				191C87252BE183FD0036E7F7 /* CalendarComponents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
